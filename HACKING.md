@@ -151,3 +151,6 @@ Here are some steps to help people wishing to generate code for use in the Tizen
 1. “From directory” <- the build/sdk directory
 1. “Into folder” <- the project you created in the IDE
 1. Finish
+
+
+test
